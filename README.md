@@ -1,4 +1,4 @@
-# 💼 Currículo de Claudomiro Xavier Ribeiro Neto
+# Claudomiro Xavier Ribeiro Neto
 
 Olá! Sou estudante de **Tecnologia em Redes de Computadores** (3º semestre)
 
