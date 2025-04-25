@@ -14,7 +14,7 @@ Olá! Sou estudante de **Tecnologia em Redes de Computadores** (3º semestre)
 - VirtualBox, VMs Linux (Ubuntu, Debian)
 
 ## 📬 Contato
-- Email: seuemail@exemplo.com
+- Email: xavierclaudomiro@gmail.com
 - LinkedIn: https://bit.ly/39zxrTx 
 - GitHub: https://github.com/ClaudomiroXavier
 
