@@ -1,6 +1,6 @@
 # Claudomiro Xavier Ribeiro Neto
 
-Olá! Sou estudante de **Tecnologia em Redes de Computadores** (3º semestre)
+Olá! Sou acadêmico de **Tecnologia em Redes de Computadores** (3º semestre), tenho interesse em monitoramento de sistemas e infraestrutura estou estudando Active Directory e ambientes virtualizados e busco uma oportunidade pesquisador na área de TI.
 
 ## 🧠 Habilidades Técnicas
 - Redes de Computadores (em formação)
